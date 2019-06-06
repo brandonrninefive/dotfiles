@@ -199,6 +199,6 @@ exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 exec_always --no-startup-id compton
 
 #Load desktop background
-exec --no-startup-id feh --bg-fill ~/Downloads/8ig4yu.jpg
+exec --no-startup-id feh --bg-fill ~/Downloads/desktop.png
 
 gaps inner 25
