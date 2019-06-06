@@ -1,0 +1,4 @@
+rofi.combi-modi: window,drun,run
+rofi.modi: combi
+rofi.theme: Pop-Dark
+rofi.location: 2
