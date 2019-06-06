@@ -1,0 +1,8 @@
+URxvt.termName: rxvt-256color
+URxvt.font: xft:Hack:pixelsize=16
+URxvt.color12: #aaaabb
+URxvt.foreground: #1abc9c
+URxvt.background: #232629
+URxvt.cursorColor: #ffffff
+URxvt.scrollBar: false
+URxvt.perl-ext-common: default
