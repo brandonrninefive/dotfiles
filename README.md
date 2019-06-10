@@ -5,13 +5,14 @@ The Linux dotfiles for my i3-gaps desktop environment and the applications I use
 ## Neat programs that I use
 I found most of these by browsing [r/UnixPorn](https://www.reddit.com/r/unixporn) on Reddit, you should check it out!
 - [i3-gaps](https://github.com/Airblader/i3) (tiling window manager - everything else I use is based on this)
+- [slim](https://github.com/gsingh93/slim-display-manager) (a lightweight display manager with some beautiful login/lock themes - I use some from [adi1090x](https://github.com/adi1090x/slim_themes))
 - [feh](https://github.com/derf/feh) (simple image viewer, good for displaying a desktop in i3)
 - [rofi](https://github.com/davatorium/rofi) (application menu and dmenu alternative)
 - [cava](https://github.com/karlstav/cava) (in-terminal audio visualizer)
 - [scrot](https://github.com/dreamer/scrot) (screenshots from terminal)
 - [ranger](https://github.com/ranger/ranger) (in-terminal file manager) 
 - [urxvt](https://github.com/exg/rxvt-unicode) (highly customizable terminal emulator)
-- [polybar](https://polybar.github.io/) (highly customizable task bar(s))
+- [polybar](https://polybar.github.io/) (highly customizable task bar(s) - I use modified versions of ones made by [adi1090x](https://github.com/adi1090x/polybar-themes))
 - [neofetch](https://github.com/dylanaraps/neofetch) (display system overview in terminal)
 - [lolcat](https://github.com/busyloop/lolcat) (display text in rainbow colors)
 - [cowsay](https://github.com/schacon/cowsay) (make an ascii cow say things)
