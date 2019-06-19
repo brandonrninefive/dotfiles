@@ -19,7 +19,7 @@ exec xset fp rehash
 for_window [class=".*"] border pixel 6
 
 #Apply blue light filter
-exec --no-startup-id redshift -o
+exec --no-startup-id redshift -O 4500
 
 #Load startup programs
 #exec --no-startup-id i3-msg 'workspace 1;' 
